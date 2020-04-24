@@ -1,0 +1,14 @@
+---
+description: library for ST Microelectronics IIS3DWB chip. 
+fullname: lib.stm.iis3dwb
+info:
+    chip_manufacturer: ST Microelectronics 
+    chip_name: IID3DWB
+    name: Vibrometer Sensor
+    type: Actuator
+keywords:
+- stm 
+- sensors
+- vibrometer
+title: STM  IIS3DWB Chip Library
+...
